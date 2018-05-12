@@ -1,0 +1,18 @@
+body, html {
+    height: 100%;
+    background-color: #447DC0;
+}
+.bg {
+    height: 100%;
+    margin-top: 5%;
+}
+
+.shadow {
+    width:230px;
+    height:230px;
+}
+
+p {
+    text-align:center;
+    color: white;
+}
